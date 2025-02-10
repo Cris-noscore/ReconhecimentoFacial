@@ -1,4 +1,4 @@
-##Reconhecimento Facial com FaceNet e MTCNN
+Reconhecimento Facial com FaceNet e MTCNN
 Este projeto implementa um sistema básico de reconhecimento facial usando o modelo FaceNet pré-treinado e o detector de faces MTCNN. As bibliotecas principais utilizadas incluem TensorFlow, OpenCV, e NumPy.
 
 #Instruções de Instalação
@@ -6,7 +6,7 @@ Certifique-se de ter o ambiente Python configurado. Instale as dependências nec
 
 pip install mtcnn tensorflow opencv-python numpy
 
-#Uso
+Uso
 O projeto inclui funções para detectar faces, extrair embeddings faciais e reconhecer rostos com base em um banco de dados de faces conhecidas. Abaixo está um resumo de como utilizá-las.
 
 1. Detectar Faces
